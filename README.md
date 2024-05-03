@@ -1,6 +1,6 @@
 # Microblog_Flask
 
-### My repository for learning the Flask microframework. The goal is to create a simple but complete web blog. The reference for creating the blog is from: The Flask Mega-Tutorial from Miguel Grinberg
+### My repository for learning the Flask microframework. The goal is to create a simple but complete web blog. The reference for creating the blog is from: The Flask Mega-Tutorial from Miguel Grinberg, Jairo é imundo.
 
 # 1. Create a New Virtual Environment:
 
